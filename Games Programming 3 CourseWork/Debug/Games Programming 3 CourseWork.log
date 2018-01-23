@@ -1,0 +1,5 @@
+﻿  AlienBlastGame.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Games Programming 3 CourseWork.vcxproj -> A:\GamesProgramming\Games Programming 3 CourseWork\Debug\Games Programming 3 CourseWork.exe
+  Games Programming 3 CourseWork.vcxproj -> A:\GamesProgramming\Games Programming 3 CourseWork\Debug\Games Programming 3 CourseWork.pdb (Partial PDB)
